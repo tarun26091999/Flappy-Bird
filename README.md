@@ -1,4 +1,4 @@
-An Android app called Twitterr.
+An Android game Flappy Bird
 
 Technologies Used
 
